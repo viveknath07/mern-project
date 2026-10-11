@@ -134,3 +134,4 @@ frontend/src/
 > Note: the frontend calls `/api/products` etc. and the Vite dev server rewrites
 > `/api/*` → backend, so page routes like `/products` never collide with API paths.
 # mern-project
+# mern-project
